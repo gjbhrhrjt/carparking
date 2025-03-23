@@ -1,0 +1,15 @@
+h1{
+    text-align: center;
+}
+body{
+    background-image: url(./d5bd6f50-3c7c-4332-8225-008f0def668a.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+video{
+    height:300px ;
+    width: auto;
+}
+p{
+    font-size: 30px;
+}
